@@ -1,0 +1,45 @@
+
+MR@DESKTOP-IP89LR6 MINGW64 ~/Desktop
+$ git init "my test Git"
+Initialized empty Git repository in C:/Users/MR/Desktop/my test Git/.git/
+
+MR@DESKTOP-IP89LR6 MINGW64 ~/Desktop
+$ cd "D:"
+
+MR@DESKTOP-IP89LR6 MINGW64 /d
+$ ped
+bash: ped: command not found
+
+MR@DESKTOP-IP89LR6 MINGW64 /d
+$ pwd
+/d
+
+MR@DESKTOP-IP89LR6 MINGW64 /d
+$ ls
+'$RECYCLE.BIN'/   develop/   music.mp3     'System Volume Information'/   WORK/
+ design/          mix/       pagefile.sys   tutor/
+
+MR@DESKTOP-IP89LR6 MINGW64 /d
+$ mkdir "testGit_dir"
+
+MR@DESKTOP-IP89LR6 MINGW64 /d
+$ cd "testGit_dir"
+
+MR@DESKTOP-IP89LR6 MINGW64 /d/testGit_dir
+$ ls
+
+MR@DESKTOP-IP89LR6 MINGW64 /d/testGit_dir
+$ touch first_test.txt
+
+MR@DESKTOP-IP89LR6 MINGW64 /d/testGit_dir
+$ open first_test.txt
+bash: open: command not found
+
+MR@DESKTOP-IP89LR6 MINGW64 /d/testGit_dir
+$ start first_test.txt
+
+MR@DESKTOP-IP89LR6 MINGW64 /d/testGit_dir
+$ ^C
+
+MR@DESKTOP-IP89LR6 MINGW64 /d/testGit_dir
+$
