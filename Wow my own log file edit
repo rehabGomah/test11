@@ -1,0 +1,26 @@
+[33mcommit b5d526ebea7f40234139f0e3675f856de3b6c6e4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rehab Gomah Mohammed <reremood88@gmail.com>
+Date:   Wed Mar 7 07:18:14 2018 +0300
+
+    created files by touch
+
+[33mcommit 26fe363e5d997fcf4e5d0146a359475c497b4404[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Rehab Gomah Mohammed <reremood88@gmail.com>
+Date:   Wed Mar 7 06:42:29 2018 +0300
+
+    I deleted myPic.jpg file
+    
+    because it was 0 bytes size
+    it didn't have any data
+
+[33mcommit c3142f430f8ea9092d0d5c1587518ff9cda6d7a9[m
+Author: Rehab Gomah Mohammed <reremood88@gmail.com>
+Date:   Wed Mar 7 06:26:45 2018 +0300
+
+    "my second day"
+
+[33mcommit ce5673c846ad5ac92caff8f2b3d2664eb444b5cf[m
+Author: Rehab Gomah Mohammed <reremood88@gmail.com>
+Date:   Tue Mar 6 06:30:04 2018 +0300
+
+    Wow it's my first try with Git:Commit
